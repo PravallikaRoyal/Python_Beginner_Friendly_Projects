@@ -1,5 +1,5 @@
 Rock, Paper, Scissors! 🪨📄✂️
-Welcome to the classic game of chance and strategy, now in your terminal! Pit your wits against the computer in this simple yet fun implementation of Rock, Paper, Scissors.
+Welcome to the classic game of chance and strategy! Pit your wits against the computer in this simple yet fun implementation of Rock, Paper, Scissors.
 
 Rules of the Game 📜:
 Rock crushes Scissors (Rock wins) 🪨 > ✂️
