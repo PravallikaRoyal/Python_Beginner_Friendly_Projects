@@ -12,7 +12,6 @@ def set_difficulty():
         return hard_level_turns
     
 def check_answer(user_guess, actual_answer, turns):
-    
     if user_guess > actual_answer:
         print("Too High")
         return turns-1
